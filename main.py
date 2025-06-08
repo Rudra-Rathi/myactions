@@ -1,10 +1,10 @@
 def hello():
-  print("Hii")
+    print("Hii")
 
 
 
 def bye():
-  print("bye")
+    print("bye")
 
 
 
